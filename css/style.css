@@ -85,8 +85,16 @@ h6{
 	font-family: 'Open Sans', sans-serif;
 	font-weight:400;
 	text-align:center;
-	margin:0 0 60px 0;
+	
 }
+
+h5{
+  font-size:24px;
+  color:#888888;
+  text-align:center;
+  margin:0 0 30px 0;
+}
+
 p{
 	line-height:24px;
 	margin:0;
@@ -167,7 +175,7 @@ color: #fff;
 }
 
 .link:active, .link:focus {
-	background: #7cc576;
+	background: #00a79d;
 	text-decoration:none;
 	color:#fff !important;
 }
@@ -206,7 +214,7 @@ color: #fff;
 
 .main-nav li a:hover{ 
 	text-decoration:none;
-	color: #7cc576;
+	color: #00a79d;
 }
 
 .small-logo{ 
@@ -292,7 +300,7 @@ color: #fff;
 .Learn-More{
 	display:inline-block;
 	padding:0 5px 0 0;
-	color:#7cc576;
+	color:#00a79d;
 	font-size:16px;
 	text-transform:uppercase;
 	font-family: 'Montserrat', sans-serif;
@@ -341,7 +349,7 @@ color: #fff;
 	-webkit-transition:all 0.3s ease-in-out;
 }
 .Portfolio-nav li a:hover{
-	background:#7cc576;
+	background:#00a79d;
 	color:#fff;
 	text-decoration:none;
 }
@@ -372,7 +380,7 @@ color: #fff;
 }
 
 .Portfolio-nav li a.current{
-	background:#7cc576;
+	background:#00a79d;
 	color:#fff;
 	text-decoration:none;
 }
@@ -452,7 +460,7 @@ img {
 	line-height:68px;
 	text-align:center;
 	font-size:27px;
-	color:#7cc576;
+	color:#00a79d;
 	cursor: pointer;
 	transition:all 0.3s ease-in-out;
 	-moz-transition:all 0.3s ease-in-out;
@@ -465,7 +473,7 @@ border: 2px solid #fff;
 }
 
 .c-logo-part{
-	background:#7cc576;
+	background:#00a79d;
 	padding:25px 0;
     filter: alpha(opacity=60);
 }
@@ -592,8 +600,7 @@ border: 2px solid #fff;
 /* Talk Business
 ---------------------------------*/
 .business-talking{
-	background:url(../img/section-bg2.jpg) top center no-repeat;
-	background-size:cover;
+	background:url(../img/pw_maze_black_2X.png) left top repeat;
 	padding:60px 0 10px;
 	text-align:center;
 }
@@ -611,7 +618,7 @@ border: 2px solid #fff;
 /* Contact
 ---------------------------------*/
 .main-section.contact{
-	padding:90px 0 100px;
+	padding:20px 0 60px;
 }
 
 .main-section.contact{
@@ -719,7 +726,7 @@ border: 2px solid #fff;
 .input-btn{
 	width:175px;
 	height:50px;
-	background:#7cc576;
+	background:#00a79d;
 	border-radius:4px;
 	color:#ffffff;
 	font-size:14px;
@@ -733,8 +740,9 @@ border: 2px solid #fff;
 }
 
 .input-btn:hover{
-	background: #111;
-	color: #fff;
+	background: #fff;
+  color: #00a79d;
+  border: #00a79d solid;
 }
 
 .validation {
@@ -746,8 +754,8 @@ border: 2px solid #fff;
 }
 
 #sendmessage {
-    color: #7cc576;
-    border:1px solid #7cc576;
+    color: #00a79d;
+    border:1px solid #00a79d;
     display:none;
     text-align:center;
     padding:15px;
@@ -787,7 +795,7 @@ border: 2px solid #fff;
 	text-align:center;
 }
 .copyright a, .credits a{
-	color:#7cc576;
+	color:#00a79d;
 	font-weight:600;
 	text-decoration: none;
 	transition:all 0.3s ease-in-out;
@@ -816,7 +824,7 @@ border: 2px solid #fff;
 }
 
 .res-nav_click:hover, .res-nav_click:active, .res-nav_click:focus {
-	color: #7cc576 !important;
+	color: #00a79d !important;
 }
 
 .portfolioContainer{
