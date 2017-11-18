@@ -823,6 +823,12 @@ border: 2px solid #fff;
 	-webkit-transition:all 0.3s ease-in-out;
 }
 
+.navLogo:hover {
+  background-image: url('img/48x48g.png');
+	-moz-transition:all 0.3s ease-in-out;
+	-webkit-transition:all 0.3s ease-in-out;
+}
+
 .res-nav_click:hover, .res-nav_click:active, .res-nav_click:focus {
 	color: #00a79d !important;
 }
